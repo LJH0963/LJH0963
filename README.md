@@ -35,7 +35,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square)
 ![Notion](https://img.shields.io/badge/Notion-003000?style=flat-square)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square)
-![Confluence](https://img.shields.io/badge/Confluence-0054C2?style=flat-square)
+![Confluence](https://img.shields.io/badge/Confluence-0154C2?style=flat-square)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square)
