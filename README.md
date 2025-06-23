@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F94EF&center=true&vCenter=true&width=700&lines=Former+Data+Labeling+Project+Manager+%7C+Now+AI+Engineer;Focused+on+Computer+Vision%2C+LLMs%2C+AI+Agents;Committed+to+bringing+technology+to+life+as+a+real+service" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=OnyX0000&color=brightgreen" alt="Profile views" />
-</div>
-
 ---
 
 ## 🙋‍♂️ About Me
