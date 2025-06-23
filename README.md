@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=200&amp;section=header&amp;text=Welcome%20to%20JangHeon's%20Github&amp;fontSize=45&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Exploring%20AI%20through%20Vision%20%26%20LLMs&amp;descAlignY=51&amp;descAlign=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20JangHeon's%20Github&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Exploring%20AI%20through%20Vision%20%and%20LLMs&descAlignY=51&descAlign=62)
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F94EF&center=true&vCenter=true&width=700&lines=Former+Data+Labeling+Project+Manager+%7C+Now+AI+Engineer;Focused+on+Computer+Vision%2C+LLMs%2C+AI+Agents;Committed+to+bringing+technology+to+life+as+a+real+service" alt="Typing SVG" />
