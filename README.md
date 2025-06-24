@@ -57,7 +57,7 @@
 
 | 대회명 | 날짜 | 수상 | 관련 프로젝트 |
 |:---|:---:|:---:|:---|
-| Potenup 융합 프로젝트 발표대회 | 2025/06 | 우수상 | [LOWLAW](https://github.com/LJH0963/Integrate) |
+| Potenup 융합 프로젝트 발표대회 | 2025/06 | 우수상 | [ProjectISG](https://github.com/Re-Dev-Wanted/Integrate) |
 
 ---
 
