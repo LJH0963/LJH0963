@@ -24,7 +24,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-FFD700?style=flat-square)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=white)
-![YOLO_Pose](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolopose&logoColor=white)
+![YOLO_Pose](https://img.shields.io/badge/YOLO_POSE-00FFFF?style=flat-square&logo=yolo_pose&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square)
 ![RandomForest](https://img.shields.io/badge/RandomForest-8CBF3F?style=flat-square)
 
