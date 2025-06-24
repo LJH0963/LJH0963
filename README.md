@@ -18,7 +18,7 @@
 
 ## 🛠️ Tech Stack
 
-### 언어 & 프레임워크
+### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -27,11 +27,11 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square)
 ![RandomForest](https://img.shields.io/badge/RandomForest-8CBF3F?style=flat-square)
 
-### 데이터베이스
+### Database
 ![FAISS](https://img.shields.io/badge/FAISS-47A248?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-00FFAA?style=flat-square)
 
-### 협업 & 도구
+### Tools for Coworking
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square)
 ![Notion](https://img.shields.io/badge/Notion-003000?style=flat-square)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square)
@@ -61,7 +61,7 @@
 
 ---
 
-## 🔥 주요 프로젝트
+## 🔥 Main Projects
 
 ### 🎮 ComfyUI & MV_Adapter & Hunyuan 3D v2.0 활용 에셋 생성 에이전트 생성
 > ComfyUI Node 기반 Game 내 Image & 3D Assest 생성 파이프라인 구축 (`ProjectISG-AI_3D`)  
