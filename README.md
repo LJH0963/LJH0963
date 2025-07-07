@@ -82,7 +82,7 @@
 ### 🏗️ LLM + RAG 기반 사고 대응 시스템  
 > 건설공사 사고 대응 문구 자동 생성 시스템 (`Construction_accident_prediction`)  
 - **기간:** 2025.03 ~ 2025.03  
-- **기술 스택:** LangChain, FAISS, ChromaDB, SentenceTransformer  
+- **기술 스택:** LangChain, FAISS, ChromaDB, SentenceTransformer, HuggingFace SBERT, Ollama
 - **설명:** 건설공사 사고 데이터를 기반으로 사고 원인 분석 및 유사 사례 검색, 대응 문구 자동 생성하는 RAG 기반 LLM 시스템.  
 - 🔗 [Repo Link](https://github.com/LJH0963/DACON-construction-accident-prevention)
 
